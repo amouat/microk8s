@@ -11,7 +11,7 @@ sudo lxd init
 
 Build the snap with:
 ```
-git clone http://github.com/ubuntu/microk8s
+git clone https://github.com/ubuntu/microk8s.git
 cd ./microk8s/
 snapcraft cleanbuild
 ```
